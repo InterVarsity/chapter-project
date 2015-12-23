@@ -32,6 +32,8 @@ We will need many people with varying skills to make this project a reality. Som
 * Project Management
 * Many other skills not listed here
 
+We are currently in the team gathering phase:
+
 Sign into our [Slack Channel](https://iv-chapter-project.slack.com/signup) or [contact Mark W. Breneman](http://intervarsity.org/contact/15309) to find out more.
 
 [Github Project] (https://github.com/InterVarsity/chapter-project) |  [Info Page] (http://intervarsity.github.io/chapter-project/)
