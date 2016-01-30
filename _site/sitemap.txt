@@ -1,0 +1,12 @@
+
+http://intervarsity.github.io/chapter-project//archive
+http://intervarsity.github.io/chapter-project//atom.xml
+http://intervarsity.github.io/chapter-project//categories
+http://intervarsity.github.io/chapter-project//
+http://intervarsity.github.io/chapter-project//index.md.bk
+http://intervarsity.github.io/chapter-project//pages
+http://intervarsity.github.io/chapter-project//rss.xml
+http://intervarsity.github.io/chapter-project//sitemap.txt
+http://intervarsity.github.io/chapter-project//tags
+
+http://intervarsity.github.io/chapter-project//lessons/2011/12/29/jekyll-introduction
