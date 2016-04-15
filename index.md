@@ -42,7 +42,9 @@ We will need many people with varying skills to make this project a reality. Som
 
 We are currently in the team gathering phase:
 
-Sign into our [Slack Channel](https://iv-chapter-project.slack.com/signup) or [contact Mark W. Breneman](http://intervarsity.org/contact/15309) to find out more.
+To get more info or to Sign into our [Slack Channel](https://airtable.com/shr23niJqwfA3zczb).
+[Contact Mark W. Breneman](http://intervarsity.org/contact/15309) to find out more.
+
 
 [Github Project](https://github.com/InterVarsity/chapter-project)
 
