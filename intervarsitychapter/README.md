@@ -1,5 +1,8 @@
-# understrap-child
-Basic Child Theme for UnderStrap Theme Framework: https://github.com/holger1411/understrap
+# InterVarsity Chapter Theme
+Based on a Basic Child Theme for UnderStrap Theme Framework: https://github.com/holger1411/understrap
+
+## Instructions below are for development of the theme. This theme is in very early alpha, it should not be used in production at this time.
+When the theme gets much closer to a beta or 1.0 version, the development instructions below will be replaced with robust and hopefully easy to follow instructions for setting up a Wordpress site with the InterVarsity Chapter Theme.
 
 ## How it works
 It shares with the parent theme all PHP files and adds its own functions.php on top of the UnderStrap parent themes functions.php.
@@ -14,7 +17,7 @@ Uses the Enqueue method the load and sort the CSS file the right way instead of 
 - IMPORTANT: If you download it from GitHub make sure you rename the "understrap-master.zip" file just to "understrap.zip" or you might have problems using this child themes !!
 
 2. Just upload the understrap-child folder to your wp-content/themes directory
-3. Go into your WP admin backend 
+3. Go into your WP admin backend
 4. Go to "Appearance -> Themes"
 5. Activate the UnderStrap Child theme
 
