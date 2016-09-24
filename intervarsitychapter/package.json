@@ -1,0 +1,41 @@
+{
+  "name": "intervarsitychapter",
+  "version": "0.1.5",
+  "description": "Basic Child Theme intervarsitychapter web sites built on UnderStrap Theme Framework: https://github.com/holger1411/understrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holger1411/understrap-child.git"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/holger1411/understrap-child/issues"
+  },
+  "homepage": "https://github.com/holger1411/understrap-child",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.4",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-ignore": "^2.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.6",
+    "gulp-clone": "^1.0.0",
+    "gulp-merge": "^0.1.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "merge2": "^1.0.2",
+    "browser-sync": "^2.13.0",
+    "understrap": "^0.4.7",
+    "owl.carousel": "^2.1.4",
+    "undescores-for-npm": "^1.0.0"
+  }
+}
