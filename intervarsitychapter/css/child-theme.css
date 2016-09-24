@@ -7175,4 +7175,12 @@ a.skip-link {
       background: #869791; }
 
 h2 {
-  color: blue !important; }
+  color: #0a214f;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  font-size: 1.6rem; }
+
+h1 {
+  color: #0076c0;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  border-bottom: solid 1px #0076c0; }
