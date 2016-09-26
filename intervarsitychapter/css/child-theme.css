@@ -7191,8 +7191,22 @@ body {
   line-height: 1.5em;
   color: #475e7b; }
 
-.navbar-brand {
-  margin-left: 10px; }
-
 a {
   color: #0076c0; }
+
+.navbar {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #0a214f; }
+
+.navbar-nav .nav-link {
+  padding-bottom: 0; }
+
+.navbar {
+  padding: 0; }
+
+.nav-menu {
+  margin-top: 16px; }
+
+.navbar #main-menu, .navbar-nav .nav-item {
+  float: right; }

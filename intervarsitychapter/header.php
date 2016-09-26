@@ -30,13 +30,13 @@
 
         <a class="skip-link screen-reader-text sr-only" href="#content"><?php _e( 'Skip to content', 'understrap' ); ?></a>
 
-        <nav class="navbar navbar-dark  site-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+        <nav class="navbar  site-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
 
 
                 <div class="container">
 
 
-                            <div class="navbar-header">
+                            <div class="navbar-header col-md-3">
 
                                 <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
 
@@ -60,7 +60,7 @@
                             <?php wp_nav_menu(
                                     array(
                                         'theme_location' => 'primary',
-                                        'container_class' => 'collapse navbar-toggleable-xs exCollapsingNavbar',
+                                        'container_class' => 'collapse navbar-toggleable-xs exCollapsingNavbar col-md-9 nav-menu',
                                         'menu_class' => 'nav navbar-nav',
                                         'fallback_cb' => '',
                                         'menu_id' => 'main-menu',
