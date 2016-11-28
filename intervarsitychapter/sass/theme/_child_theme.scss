@@ -2,21 +2,22 @@
 //START: quick hack for a demo. Add named color vars to the theme var file, then replace.
 h2{
   color: #0a214f;
-  font-family: 'Lato','Trebuchet MS', Arial, Helvetica, sans-serif;
   font-size: 1.4rem;
 }
 
 h1{
   color: #0076c0;
-  font-family: 'Lato','Trebuchet MS', Arial, Helvetica, sans-serif;
   font-size: 3rem;
   border-bottom: solid 1px #0076c0;
 }
 body{
   font-size: 14px;
-  font-family: 'Lato','Trebuchet MS', Arial, Helvetica, sans-serif;
 line-height: 1.5em;
 color: #475e7b;
+}
+
+body, h1, h2 {
+  font-family: 'Raleway', 'Trebuchet MS', Arial, Helvetica, sans-serif;
 }
 
 a{
